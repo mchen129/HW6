@@ -3,7 +3,7 @@
 
 ## Project aim: 
 Use public data to explore the significance of “self-reported health” as a health indicator.
-  - This project will be kept working for the next 3 weeks. Other collaborators are welcome to contribute by adding their inputs to `read.me` file in [my PROJECT repository](https://raw.githubusercontent.com/mchen129/project/main/) and putting a comment while committing changes.)
+  - This project will be kept working for the next 3 weeks. Other collaborators are welcome to contribute by adding their inputs to `read.me` file in [my PROJECT repository](https://raw.githubusercontent.com/mchen129/project/main/) and putting a comment while committing changes.
 
 
 ## Data Source:
