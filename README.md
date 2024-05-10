@@ -1,5 +1,4 @@
-# Project
-## Stata II (Intermediate)
+# Project for Stata II (Intermediate)
 
 
 ## Project aim: 
