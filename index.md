@@ -47,3 +47,7 @@ merge 1:1 seqn using demo_mortality, nogen
 sts graph, by(huq010) fail
 stcox i.huq010
 ```
+
+
+## Survival Analysis
+click [here](dyndoc.html) to view nonparametric and semiparametric risk estimates from Stata
