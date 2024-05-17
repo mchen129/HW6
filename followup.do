@@ -37,7 +37,7 @@ di "what is your work directory?" _request(workdir)
 cd "$workdir"
 
 //cd "C:\PUBLIC USE DATA"    // SET DIRECTORY WHERE DATA ARE LOCATED, E.G. "C:\PUBLIC USE DATA"
-global SURVEY <SURVEY>     // REPLACE <SURVEY> WITH RELEVANT SURVEY NAME (IN ALL CAPS)
+global SURVEY NHANES_1999_2000     // REPLACE <SURVEY> WITH RELEVANT SURVEY NAME (IN ALL CAPS)
 * example syntax: 
 * global SURVEY NHIS_2018
 * or
